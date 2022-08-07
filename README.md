@@ -1,8 +1,5 @@
-### module2_solution
+### Assignments Solutions
 
-[Link to preview solution](https://sraabia.github.io/Assignments/module2_solution/index.html)
+- [module2_solution](https://sraabia.github.io/Assignments/module2_solution/index.html)
 
-### This website is responsive to the screens:
-- Desktop
-- Tablet
-- Mobile
+
