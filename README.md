@@ -1,11 +1,11 @@
 # Coursera: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-## Assignments Solutions
+## Assignments' Solutions 📄:
 
 - [module2_solution](https://sraabia.github.io/Assignments/module2_solution/index.html)
 
  
- ## 🧰 Languages and Tools:
+ ## Languages and Tools 🧰: 
 <p align="center">
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_48x48.png"  alt="HTML" height="50" style="vertical-align:top; margin:4px" >
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_32x32.png" alt="CSS" height="40" style="vertical-align:top; margin:4px" > 
