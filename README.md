@@ -19,8 +19,8 @@
  ## Languages and Tools 🧰: 
 <p>
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_48x48.png"  alt="C" height="50" style="vertical-align:top; margin:4px" >
-  
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png"  alt="CPP" height="50" style="vertical-align:top; margin:4px" >
+  <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png"  alt="C#" height="50" style="vertical-align:top; margin:4px" >
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_48x48.png"  alt="Python" height="50" style="vertical-align:top; margin:4px" >
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/html/html_48x48.png"  alt="HTML" height="50" style="vertical-align:top; margin:4px" >
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/css/css_32x32.png" alt="CSS" height="40" style="vertical-align:top; margin:4px" > 
