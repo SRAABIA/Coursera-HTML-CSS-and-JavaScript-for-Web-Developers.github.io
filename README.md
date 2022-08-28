@@ -5,7 +5,7 @@
 
 ## Repositories:
 
-1. [Coursera Learning](https://github.com/SRAABIA/SRAABIA.github.io)
+1. [Coursera: HTML, CSS, and Javascript for Web Developers](https://github.com/SRAABIA/SRAABIA.github.io)
 2. [My Programming Projects: C & C++](https://github.com/SRAABIA/PROJECTS)
 3. [My Hackerrank Solutions: C](https://github.com/SRAABIA/Hackerrank_Sol)
 4. [C++ Qs from SoloLearn](https://github.com/SRAABIA/SoloLearn_Cpp)
@@ -15,7 +15,7 @@
 
 - [Responsive Website](https://sraabia.github.io/module2_solution/index.html)
 - [Website Using Twitter Bootstrap](https://sraabia.github.io/module3_solution/module3_solution.html)
- 
+- [Website with implementation of JavaScript](https://sraabia.github.io/module4_solution/index.html)
  ## Languages and Tools 🧰: 
 <p>
   <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_48x48.png"  alt="C" height="50" style="vertical-align:top; margin:4px" >
