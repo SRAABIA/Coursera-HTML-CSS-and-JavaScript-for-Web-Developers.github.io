@@ -10,6 +10,7 @@
 3. [My Hackerrank Solutions: C](https://github.com/SRAABIA/Hackerrank_Sol)
 4. [C++ Qs from SoloLearn](https://github.com/SRAABIA/SoloLearn_Cpp)
 5. [Python Learning Qs](https://github.com/SRAABIA/Pyhton_Learning)
+6. [Data Structure Labs](https://github.com/SRAABIA/Data-Structures-Labs)
 
 ## Websites 📄:
 
