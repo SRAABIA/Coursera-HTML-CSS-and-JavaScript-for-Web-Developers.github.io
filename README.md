@@ -5,13 +5,13 @@
 
 ## Repositories:
 
-. [Speed Programming Contest](https://github.com/SRAABIA/SpeedProgrammingContest)
-. [Coursera: HTML, CSS, and Javascript for Web Developers](https://github.com/SRAABIA/SRAABIA.github.io)
-. [My Programming Projects: C & C++](https://github.com/SRAABIA/PROJECTS)
-. [My Hackerrank Solutions: C](https://github.com/SRAABIA/Hackerrank_Sol)
-. [C++ Qs from SoloLearn](https://github.com/SRAABIA/SoloLearn_Cpp)
-. [Python Learning Qs](https://github.com/SRAABIA/Pyhton_Learning)
-. [Data Structure Labs](https://github.com/SRAABIA/Data-Structures-Labs)
+- [Speed Programming Contest 2023](https://github.com/SRAABIA/SpeedProgrammingContest)
+- [Coursera: HTML, CSS, and Javascript for Web Developers](https://github.com/SRAABIA/SRAABIA.github.io)
+- [My Programming Projects: C & C++](https://github.com/SRAABIA/PROJECTS)
+- [My Hackerrank Solutions: C](https://github.com/SRAABIA/Hackerrank_Sol)
+- [C++ Qs from SoloLearn](https://github.com/SRAABIA/SoloLearn_Cpp)
+- [Python Learning Qs](https://github.com/SRAABIA/Pyhton_Learning)
+- [Data Structure Labs](https://github.com/SRAABIA/Data-Structures-Labs)
 
 ## Websites 📄:
 
