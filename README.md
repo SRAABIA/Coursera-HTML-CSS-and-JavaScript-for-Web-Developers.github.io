@@ -41,7 +41,7 @@
 <p align="left">
  <a href="mailto:sraabiahh@gmail.com" target="blank" ><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="Gmail" height="40" width="40" syle="vertical-align=bottom"></a> Feel Free to mail me for project contribution or help!
  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syeda-rabia-hashmi-a2a825229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syeda-rabia-hashmi-a2a825229/" alt="LinkedIn" height="30" width="40"/></a> Let's grow on LinkedIn!
+<a href="https://www.linkedin.com/in/syeda-rabia-hashmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syeda-rabia-hashmi-a2a825229/" alt="LinkedIn" height="30" width="40"/></a> Let's grow on LinkedIn!
 
 </p>
 <hr />
