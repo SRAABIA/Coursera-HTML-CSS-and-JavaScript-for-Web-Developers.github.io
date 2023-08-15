@@ -1,7 +1,6 @@
 <h1 align="center">This is Raabia</h1>
 <h4 align="center">I am a CS undergrad at FAST-NUCES. A Junior with a passion to dive into DataScience. I also have done Internship for Web Development. I upload my Projects and Labs here. 🤓</h3>
-<p align="center">
- 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=SRAABIA.SRAABIA)
 [![Github](https://img.shields.io/github/followers/SRAABIA?label=Follow&style=social)](https://github.com/SRAABIA)
  </p>
@@ -42,18 +41,11 @@
  <a href="mailto:sraabiahh@gmail.com" target="blank" ><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" alt="Gmail" height="40" width="40" syle="vertical-align=bottom"></a> Feel Free to mail me for project contribution or help!
  
 <a href="https://www.linkedin.com/in/syeda-rabia-hashmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syeda-rabia-hashmi-a2a825229/" alt="LinkedIn" height="30" width="40"/></a> Let's grow on LinkedIn!
-
 </p>
 <hr />
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sraabia&show_icons=true&locale=en&layout=compact&theme=dark&card_width=340" alt="sraabia" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sraabia&show_icons=true&locale=en&layout=compact&theme=dark&card_width=340" alt="sraabia" />
 </p>
-
-<p>&nbsp;
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sraabia&theme=dark" alt="sraabia" />
-</p>
-<br>
 <p align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dark&showIcons=false&preferLogin=true"> 
-  <img height=200 align="center" alt="sraabia's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/sraabia?cardType=github&theme=dark&showIcons=false" />  </a>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=sraabia&theme=dark" alt="sraabia" />
 </p>
