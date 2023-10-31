@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **E-COMMERCE WEBSITE**
 
-- 🌱 I’m currently learning **NEST JS & ANGULAR**
+- 🌱 I’m currently learning **React & Database Management On SQL**
 
 - 💬 Ask me about **C, C++, Python, HTML, CSS, JS**
 
