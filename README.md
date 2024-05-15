@@ -1,20 +1,16 @@
 <h1 align="center">This is Raabia</h1>
-<h4 align="center">I am a CS undergrad at FAST-NUCES. A Junior with a passion to dive into DataScience. I also have done Internship for Web Development. I upload my Projects and Labs here. 🤓</h3>
+<h4 align="center">Computer Science undergrad at FAST-NUCES. I love to code as an hobby and profession. On my path to explore this field, I am working on AI projects. Studying Information Retrieval and Text Mining have ignited new ideas to me. 🤓</h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SRAABIA.SRAABIA)
 [![Github](https://img.shields.io/github/followers/SRAABIA?label=Follow&style=social)](https://github.com/SRAABIA)
  </p>
 
-- 🔭 I’m currently working on **E-COMMERCE WEBSITE**
-
-- 🌱 I’m currently learning **React & Database Management On SQL**
-
-- 💬 Ask me about **C, C++, Python, HTML, CSS, JS**
-
-- 💡I have also worked on **Angular Framework, NestJS**
-
+- 🔭 I’m currently working on **Product Title Classification - Lazada Dataset**
+- 📃 I am improving my coding skills in Python Language.
+- 🌱 I've learnt **React & Database Management On SQL**
 - 🕸️Used Databases **MySQL**
-
+- 💬 Ask me about **C, C++, Python, HTML, CSS, JS**
+- 📚 Solve **LeetCode** in leasure time.
 - 📫 How to reach me **sraabiahh@gmail.com**
 
 ## Repositories:
