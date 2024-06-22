@@ -1,28 +1,25 @@
-<h1 align="center">This is Raabia</h1>
-<h4 align="center">Computer Science undergrad at FAST-NUCES. I love to code as an hobby and profession. On my path to explore this field, I am working on AI projects. 🤓</h3>
+<h1 align="center">This is Raabia ~</h1>
+<h4 align="center">Computer Science undergrad (not a geeky nerd) at NUCES-FAST. I am a self-learner and spend most of my time sharpening 🔪 my skills and learning 📚 more. </h3>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=SRAABIA.SRAABIA)
 [![Github](https://img.shields.io/github/followers/SRAABIA?label=Follow&style=social)](https://github.com/SRAABIA)
  </p>
 
-- 📃 I am improving my coding skills in JAVA Language.
-- 🌱 I've learnt **React & Database Management On SQL**
-- 🕸️Used Databases **MySQL**
-- 💬 Ask me about **C, C++, Python, HTML, CSS, JS**
-- 📚 Solve **LeetCode** in leisure time.
+- 💭 **JAVA & SPRINGBOOT**
+- 💬 **C, C++, Python, HTML, CSS, JS**
+- 📚 **LeetCode**
 - 📫 How to reach me **sraabiahh@gmail.com**
 
 ## Repositories:
+- [Learn JAVA](https://github.com/SRAABIA/Learn-JAVA)
 - [Leetcode](https://github.com/SRAABIA/Leetcode)
-- [Investigating-Netflix-Movies](https://github.com/SRAABIA/Investigating-Netflix-Movies)
-- [Next-Frame-Prediction-Using-Convolutioal-Autoencoder](https://github.com/SRAABIA/Next-Frame-Prediction-Using-Convolutioal-Autoencoder)
-- [Boolean-Retrieval-Model](https://github.com/SRAABIA/Boolean-Retrieval-Model)
-- [Vector-Space-Model](https://github.com/SRAABIA/Vector-Space-Model-VSM-)
 - [Speed Programming Contest 2023](https://github.com/SRAABIA/SpeedProgrammingContest)
 - [Coursera: HTML, CSS, and Javascript for Web Developers](https://github.com/SRAABIA/SRAABIA.github.io)
-- [My Programming Projects: C & C++](https://github.com/SRAABIA/PROJECTS)
-- [My Hackerrank Solutions: C](https://github.com/SRAABIA/Hackerrank_Sol)
-- [Data Structure Labs](https://github.com/SRAABIA/Data-Structures-Labs)
+
+## Projects 2k24: 
+- [Investigating-Netflix-Movies](https://github.com/SRAABIA/Investigating-Netflix-Movies)
+- [Next-Frame-Prediction-Using-Convolutioal-Autoencoder](https://github.com/SRAABIA/Next-Frame-Prediction-Using-Convolutioal-Autoencoder)
+
 
 ## Websites 📄:
 
@@ -35,8 +32,8 @@
 <hr />
 
 <p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sraabia&show_icons=true&locale=en&layout=compact&theme=dark&card_width=340" alt="sraabia" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sraabia&show_icons=true&locale=en&layout=compact&theme=light&card_width=340" alt="sraabia" />
 </p>
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=sraabia&theme=dark" alt="sraabia" />
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sraabia&theme=dark" alt="sraabia" /> -->
 </p>
